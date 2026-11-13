@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -19,10 +20,12 @@
 | ------- |
 | [0075-sort-colors](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |

@@ -11,6 +11,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0189-rotate-array) |
+| [0507-perfect-number](https://github.com/ajaysharma38390-stack/Leetcode/tree/master/0507-perfect-number) |
 ## String
 |  |
 | ------- |
